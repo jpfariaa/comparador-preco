@@ -1,4 +1,4 @@
-package com.mballem.curso.boot;
+package com.comparador.mcp.boot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

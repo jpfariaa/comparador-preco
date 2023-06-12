@@ -1,4 +1,4 @@
-package com.mballem.curso.boot;
+package com.comparador.mcp.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
